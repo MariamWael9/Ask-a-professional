@@ -1,0 +1,40 @@
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\Lenovo\Desktop\IS project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\university\passed years\2nd year term 1\IS\IS semi final project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
